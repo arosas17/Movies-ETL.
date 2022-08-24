@@ -8,3 +8,5 @@ To clean the data, regular expression was used to detect data structured in part
 ![movies_query.png](/Images/movies_query.png) ![ratings_query.png](/Images/ratings_query.png)
 
 These tables are screenshots of the number of rows that were obtained after exporting to a database, the movies row count on the left and the ratings on the right. These counts suggest that everything was transferred correctly.
+
+Two resource files are too large to attach.
